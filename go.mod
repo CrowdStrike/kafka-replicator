@@ -7,7 +7,7 @@ require (
 	github.com/confluentinc/confluent-kafka-go v1.5.2
 	github.com/emirpasic/gods v1.12.0
 	github.com/gofrs/uuid v3.2.0+incompatible
-	github.com/gogo/protobuf v1.3.1
+	github.com/gogo/protobuf v1.3.2
 	github.com/golang/mock v1.4.3
 	github.com/golang/protobuf v1.3.5
 	github.com/onsi/ginkgo v1.12.0
