@@ -3,7 +3,7 @@ module github.com/CrowdStrike/kafka-replicator
 go 1.12
 
 require (
-	github.com/aws/aws-sdk-go v1.30.4
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/confluentinc/confluent-kafka-go v1.5.2
 	github.com/emirpasic/gods v1.12.0
 	github.com/gofrs/uuid v3.2.0+incompatible
